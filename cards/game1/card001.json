@@ -1,0 +1,15 @@
+{
+  "cardId": "card001",
+  "gameId": "game1",
+  "purchased": false,
+  "assignedTo": "",
+  "assignedAt": null,
+  "numbers": [
+    [3, 19, 32, 48, 64],
+    [12, 26, 34, 54, 70],
+    [9, 29, "FREE", 53, 73],
+    [5, 22, 36, 59, 75],
+    [6, 18, 42, 50, 68]
+  ]
+}
+
